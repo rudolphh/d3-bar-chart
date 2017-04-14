@@ -1,0 +1,15 @@
+
+.container {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; 
+  height: 100vh; 
+}
+#chart { 
+  //background-color: #ecf0f1; 
+}
+#tooltip {   text-align: center; 
+  
+}
